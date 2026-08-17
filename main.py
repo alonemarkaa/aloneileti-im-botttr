@@ -6,8 +6,8 @@ from aiogram.filters import Command
 import os
 
 # ====================== AYARLAR ======================
-TOKEN = os.getenv("TOKEN") or "8684789483:AAH4Zpy04j-zUZy6_wiw_q8ioOo0Kas3bvY"
-ADMIN_ID = 8064250098
+TOKEN = os.getenv("TOKEN") or "8950737869:AAF83_1E3hV2Zkc7uw_HUa0E-D-UTsMlIvg"
+ADMIN_ID = 8773299135
 MAX_MSG_LEN = 300
 
 bot = Bot(token=TOKEN)
